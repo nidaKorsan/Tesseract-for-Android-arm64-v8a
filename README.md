@@ -9,6 +9,6 @@ Versions for libraries are listed below:
 * leptonica - 1.81.1
 * tesseract - 4.0.0
 
-Dockerfiles used in this project is taken from [here](https://github.com/rhardih/bad). 
+Dockerfiles used in this project is taken from [rhardih/bad](https://github.com/rhardih/bad). 
 
 You can find a more detailed explanation [here](https://nidakorsan.com/blogposts/docker/2021/08/01/Tesseract-For-Android.html).
